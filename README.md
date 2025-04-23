@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d5f12399-379b-4bc8-a587-1f3f56247dea" alt="PIXEL">
 </div>
-![Uploading PIXEL_final.gif…]()
+
 <!--기술 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
